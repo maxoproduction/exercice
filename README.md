@@ -35,34 +35,35 @@ Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Co
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air
 
----
-
 - l'alt des images decrivent bien celles-ci.
 - le type de chaussure, pour quelle personne (enfant, petit gars, petite fille).
+  [capture-écran](images/screenshot/sail.png)
 
 ---
 
-[capture-écran](images/screenshot/sail.png)
+---
+
+---
 
 - https://amzn.to/2NnbKPN
-
----
-
 - toute les informations du produit sont dans l'alt de l'image
+  [capture-écran](images/screenshot/amazon.png)
 
 ---
 
-[capture-écran](images/screenshot/amazon.png)
+---
+
+---
 
 - https://www.lesoleil.com/
-
----
-
 - les alt repete les gros titres des elements, donc inutile.
+  [capture-écran](images/screenshot/lesoleil.png)
 
 ---
 
-[capture-écran](images/screenshot/lesoleil.png)
+---
+
+---
 
 - https://www.rad.ca/
 
@@ -70,10 +71,9 @@ Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Co
 
 - les texte sont dans un aria-label
 - les images sont dans le css avec l'attribut background-image
+  [capture-écran](images/screenshot/rad.png)
 
 ---
-
-[capture-écran](images/screenshot/rad.png)
 
 Astuce  
 Parfois, l’affichage des alt ne donnent pas un résultat facile à lire… lorsque cela se produit, faites un clic droit de la souris et choisir inspecter pour positionner l’inspecteur de DOM sur le HTML de l’image.
@@ -101,11 +101,13 @@ D’après les captures-écrans que vous trouverez dans le dossier [images/3-tab
 Sinon, expliquez le problème en vous basant sur les règles de base énoncées dans les notes de cours.
 
 **Tutoriel sur les formulaires du w3c**  
-[Article](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c.pdf)
+[Article](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c_compressed.pdf)
 
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/tuto-form-w3c-outline.png)
 
 Réponse :
+
+- tout est présent selon les normes W3C
 
 ---
 
@@ -114,10 +116,12 @@ Réponse :
 ---
 
 **L’affaire Savtchenko**
-[Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
+[Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko_compressed.pdf)  
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko-outline.png)
 
 Réponse :
+
+- semble manquer un h1 avant les h2 causé par un mauvais balisage de la barre de navigation.
 
 ---
 
