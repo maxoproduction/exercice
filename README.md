@@ -48,31 +48,32 @@ Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Co
 
 ---
 
----
+- toute les informations du produit sont dans l'alt de l'image
 
 ---
 
-[capture-écran]()
+[capture-écran](images/screenshot/amazon.png)
 
 - https://www.lesoleil.com/
 
 ---
 
----
+- les alt repete les gros titres des elements, donc inutile.
 
 ---
 
-[capture-écran]()
+[capture-écran](images/screenshot/lesoleil.png)
 
 - https://www.rad.ca/
 
 ---
 
----
+- les texte sont dans un aria-label
+- les images sont dans le css avec l'attribut background-image
 
 ---
 
-[capture-écran]()
+[capture-écran](images/screenshot/rad.png)
 
 Astuce  
 Parfois, l’affichage des alt ne donnent pas un résultat facile à lire… lorsque cela se produit, faites un clic droit de la souris et choisir inspecter pour positionner l’inspecteur de DOM sur le HTML de l’image.
