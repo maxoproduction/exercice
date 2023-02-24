@@ -42,7 +42,7 @@ Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Co
 
 ---
 
-[capture-écran](images/screenshot/sail.ca.png)
+[capture-écran](images/screenshot/sail.png)
 
 - https://amzn.to/2NnbKPN
 
