@@ -88,9 +88,9 @@ documenter le problème par une capture-écran incluant dans son cadre, la zone 
 
 Sauvegarder les captures dans le dossier images. Compléter les liens ci-dessous:
 
-- [Contraste insuffisant 1](images/...)
-- [Contraste insuffisant 2](images/...)
-- [Contraste insuffisant 3](images/...)
+- [Contraste insuffisant 1](images/2-contrastes-couleurs/webaquebec1.png)
+- [Contraste insuffisant 2](images/2-contrastes-couleurs/webaquebec2.png)
+- [Contraste insuffisant 3](images/2-contrastes-couleurs/webaquebec3.png)
 
 ### 3. Structurer avec les h1-h6 une table des matières
 
