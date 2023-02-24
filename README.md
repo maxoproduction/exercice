@@ -37,7 +37,8 @@ Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Co
 
 ---
 
----
+- l'alt des images decrivent bien celles-ci.
+- le type de chaussure, pour quelle personne (enfant, petit gars, petite fille).
 
 ---
 
